@@ -1,0 +1,8 @@
+name = "Spectral"
+uuid = "c93258cf-9e81-4313-acd4-8d2b9d1f8391"
+authors = ["zazbone <coczaz@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
